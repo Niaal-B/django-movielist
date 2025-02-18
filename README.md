@@ -1,11 +1,1 @@
-   ...  
-  
-   
-     
-    
-   
-    
- 
- 
-  
- 
+Just a basic thing
